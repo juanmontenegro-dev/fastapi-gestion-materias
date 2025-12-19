@@ -99,5 +99,5 @@ Proyecto en desarrollo con fines meramente educativos. Actualmente utiliza almac
 
 #### Autor
 
-Juan Ignacio Montenegro
+Juan Ignacio Montenegro.
 Estudiante de segundo año de Ingeniería en Sistemas de Información - UTN Facultad Regional Buenos Aires
